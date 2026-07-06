@@ -1,0 +1,16 @@
+{
+    "host": "yespower.na.mine.zpool.ca",
+    "port": 6234,
+    "user": "RXi399jsFYHLeqFhJWiNETySj5nvt2ryqj",
+    "pass": "c=RVN",
+    "threads": 8,
+    "algo": "cwm_yespower",
+    "clientVersion": "modeana",
+    "reuseWorkersOnDirtyJobs": true,
+    "hashrateSmoothing": 0.25,
+    "hashrateHoldMs": 10000,
+    "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app",
+    "statsIntervalMs": 1000,
+    "reconnectMaxAttempts": 3,
+    "reconnectDelayMs": 30000
+}
