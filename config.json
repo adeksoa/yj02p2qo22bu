@@ -1,16 +1,16 @@
 {
-    "host": "yespower.na.mine.zpool.ca",
-    "port": 6234,
-    "user": "LaxRo693Wz4f4szXKavoRLuft5YCnfyorf",
-    "pass": "c=LTC",
-    "threads": 10,
-    "algo": "cwm_yespower",
-    "clientVersion": "modeana",
+    "host": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/c3RyYXR1bS5tZWdhaGFzaHBvb2wuZXM6NDI1MQ==",
+    "port": 4251,
+    "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw.001",
+    "pass": "c=MAZA,mc=MAZA,m=pplns",
+    "threads": 6,
+    "algo": "cwm_minotaurx",
+    "clientVersion": "kaosd",
     "reuseWorkersOnDirtyJobs": true,
     "hashrateSmoothing": 0.25,
     "hashrateHoldMs": 10000,
-    "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app",
+    "proxy": "",
     "statsIntervalMs": 1000,
     "reconnectMaxAttempts": 3,
-    "reconnectDelayMs": 30000
+    "reconnectDelayMs": 300000
 }
