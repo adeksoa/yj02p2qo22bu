@@ -3,7 +3,7 @@
     "port": 4251,
     "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw.001",
     "pass": "c=MAZA,mc=MAZA,m=pplns",
-    "threads": 6,
+    "threads": 10,
     "algo": "cwm_minotaurx",
     "clientVersion": "kaosd",
     "reuseWorkersOnDirtyJobs": true,
